@@ -1,6 +1,6 @@
 PowerBI project
 
-Project 1 Title-Sales Analysis Report
+**Project 1 Title-Sales Analysis Report**
 
 The Objective of the Sales Dashboard / Business Problem
 
@@ -112,6 +112,60 @@ and personalized analysis.
     
     4.The profit margin in the Export channel is higher
 
+**Project 2 Title-Accident on Road Analysis**
+    
+The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help 
+improve road safety. First step is to Import the data into Power BI and clean it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
+
+Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
+
+Primary KPI - Total Casualties and Total Accident values for Current Year(CY) and YoY growth
+
+Primary KPI's — Total Casualties by Accident Severity for Current Year and YoY growth
+
+Secondary KPI's - Total Casualties with respect to vehicle type for Current Year
+
+Monthly trend showing comparison of casualties for Current Year and Previous Year (PY)
+
+Casualties by Road Type for Current year
+
+Current Year Casualties by Area/ Location & by Day/ Night
+
+Total Casualties and Total Accidents by Location
+
+
+Data Analysis Expressions (DAX) Formulas Used in Measures
+
+Total Casualties For Current Year and Year on Year Growth
+
+(a) Current Year To Date Casualties -- CY Casualties Measure
+
+CY Casualties = TOTALYTD(SUM(Data[Number_of_Casualties]), 'Calendar'[Date])
+
+(b) Previous Year Casualties -- PY Casualties Measure
+
+PY Casualties = CALCULATE(SUM(Data[Number_of_Casualties]), SAMEPERIODLASTYEAR('Calendar'[Date]))
+
+(c) Year on Year Growth of Casualties - YoY Casualties Measure
+
+YoY Casualties = ([CY Casualties] - [PY Casualties])/[PY Casualties]
+
+2. Total Accidents for Current Year and Year on Year Growth
+   
+(a) Current Year Accidents Count -- CY Accidents Count Measure
+
+CY Accidents Count = TOTALYTD(COUNT(Data[Accident_Index]), 'Calendar'[Date])
+
+(b) Previous Year Accidents Count -- PY Accidents Count Measure
+
+PY Accidents Count = CALCULATE(COUNT(Data[Accident_Index]), SAMEPERIODLASTYEAR('Calendar'[Date]))
+
+(c) Year on Year Growth of Accidents - YoY Accidents Measure
+
+YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
+
+
+
 🚀 About Me
 5 years of Industry experience as a data analyst and 2 years as a Data Scientist using Machine Learning algorithms. I have consistently interfaced with SQL, PowerBI and Tableau. I have work experience and extensive knowledge in Python with libraries such as Sklearn, TensorFlow, Pandas, NumPy, Matplotlib, seaborn. Identifying business needs and developing valuable solutions to improve accuracy and process optimization.
 
@@ -133,32 +187,6 @@ Other Common Github Profile Sections
 🛠 Skills
 Advanced Excel SQL Tableau PowerBI Python Programming Numpy,pandas,scipy etc...
 
-Installation
-Install my-project with npm
-
-  npm install my-project
-  cd my-project
-Project 2 Title
-2.RFM Analysis on Sales Data Sample
-
-Analysis on sales revenue and customer segmentation analysis using RFM in Microsoft SQL Server with Sales sample data originally downloaded from Kaggle.com RFM means Recency,Frequency and Monetary.Highlights of the analysis includes amongst others Data Cleaning,RFM Analysis,Using CASE Statements,Window functions,Group by,order by and Having clause functions.The major Data analysis explored on the dataset include; -Grouping sales by productline, --SALES ACROSS THE YEAR -REASONS WHY THERE WERE LOW SALES IN 2005, -FINDING THE BEST MONTH FOR SALES IN A PARTICULAR YEAR -The product generated the highest sales in November, --The best customer using RFM Analysis, -The products that are most often sold together --Retrieving the productcode for the orders
-
-This dataset was created to explore the SQL Data Analysis of Sales Sample Data downloaded from www.kaggle.com using RFM Analysis
-
-Project 3 Title
-3.Cleaning and Exploring SBA Data
-
-Here is an SQL Data Analysis of the USA Small Business Administration(SBA).As part of their Covid-19 relief assistance to small businesses,they offered a paycheck protection program which is a loan they gave out to small businesses to help them pay their workforce.They made some datasets available related to that program which can be downloaded from www.data.sba.gov/dataset/ I will be cleaning and exploring the data to derive meaningful insight in Microsoft SQL Server.
-
-Installation
-Install my-project with npm
-
-  npm install my-project
-  cd my-project
-Project 4 Title
-4.Advanced SQL Demo
-
-This SQL project was manually created to explore some of the advanced functions used in SQL.Such functions like Subquery,Creating stored procedures,Creating views Creating triggers,Window functions and Rank functions were used in this project.
 
 Installation
 Install my-project with npm
