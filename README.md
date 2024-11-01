@@ -116,6 +116,7 @@ and personalized analysis.
     
 The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help 
 improve road safety. First step is to Import the data into Power BI and clean it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
+https://github.com/wolexyg/Power-BI/blob/d7ff180adf6773ced62e0affd1f629d9305afeb5/Road%20Accident%20Analysis2.JPG
 
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
 
