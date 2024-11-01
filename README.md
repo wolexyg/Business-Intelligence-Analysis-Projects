@@ -166,6 +166,7 @@ PY Accidents Count = CALCULATE(COUNT(Data[Accident_Index]), SAMEPERIODLASTYEAR('
 YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
 
 
+        https://github.com/wolexyg/Power-BI/blob/6da8343bb8cf15be4d742c65f61f720570f21339/SuperStore%20Sales%20Dashboard.PNG
 
 🚀 About Me
 5 years of Industry experience as a data analyst and 2 years as a Data Scientist using Machine Learning algorithms. I have consistently interfaced with SQL, PowerBI and Tableau. I have work experience and extensive knowledge in Python with libraries such as Sklearn, TensorFlow, Pandas, NumPy, Matplotlib, seaborn. Identifying business needs and developing valuable solutions to improve accuracy and process optimization.
