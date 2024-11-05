@@ -135,7 +135,7 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 
 - Total Casualties and Total Accidents by Location    
 
-## ata Analysis Expressions (DAX) Formulas Used in Measures     
+## Data Analysis Expressions (DAX) Formulas Used in Measures     
 
 1.Total Casualties For Current Year and Year on Year Growth
 
@@ -194,7 +194,78 @@ The objectives can be broken down into  the following detailed components;
   capabilities to allow users  to explore  the data at various levels of granualarity
 -  Data Analysis-Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualizations and charts
 -  Sales Forecasting-Leverage historic data  and apply time series analysis to generate sales forecast for the next 15 days
--  Actionable Insights and Recommendation-End goal is to derive insights  and actionable information that can drive strategic decision-making, support the supermarket's goals for growth,efficiency and customer satisfaction.
+-  Actionable Insights and Recommendation-End goal is to derive insights  and actionable information that can drive strategic decision-making, support the supermarket's goals for growth,efficiency and customer satisfaction.      
+
+  ## Tools Used    
+  -  Microsoft Excel
+  -  Power Query(For Data Cleaning)
+  -  Microsoft PowerBI(Dashboard Creation)  
+
+ ## Dashboard Creation              
+ <img src="https://i.ibb.co/s3SV3yH/Superstore-Sales-Dashboard4.jpg" alt="Superstore-Sales-Dashboard4" border="0">   
+
+
+ 
+ 
+ ## Data Analysis     
+ Questions to consider    
+ -  Which region has the highest number of  Sales?      
+   <img src="https://i.ibb.co/LQYpvy7/Sales-By-Region-Superstore.jpg" alt="Sales-By-Region-Superstore" border="0">
+    The Western region is the highest selling region i.e sales 522k(33%)    
+    
+
+
+ -  Which Category has the highest number of sales?       
+   <img src="https://i.ibb.co/BBNGtY9/Sales-By-Category-Superstore.jpg" alt="Sales-By-Category-Superstore" border="0">
+
+   Office Supplies has the highest number sales.
+
+   
+ -  Which is the top selling product Category and Subcategory?.
+   <img src="https://i.ibb.co/BBNGtY9/Sales-By-Category-Superstore.jpg" alt="Sales-By-Category-Superstore" border="0">
+
+    Office Supplies are the top selling Product Category       
+
+
+
+    <img src="https://i.ibb.co/XDBrDr3/Sales-By-Sub-Category-Superstores.jpg" alt="Sales-By-Sub-Category-Superstores" border="0">    
+    Phones are the top selling Subcategory
+
+ -  Which is the preferred ship mode?.
+
+    <img src="https://i.ibb.co/k1vyRR6/Sales-By-Ship-mode-Superstore.jpg" alt="Sales-By-Ship-mode-Superstore" border="0">    
+    Standard Class is the prefered ship mode.
+
+-  Which Segment recorded the highest sales?         
+    <img src="https://i.ibb.co/TrXyz8d/Sales-By-Segment-Superstore.jpg" alt="Sales-By-Segment-Superstore" border="0">
+   
+   Consumers recorded the highest sales of 753k
+
+  ## Sales Forecasting              
+  <img src="https://i.ibb.co/vxCmPF9/Sales-Forecast-Superstore.jpg" alt="Sales-Forecast-Superstore" border="0">              
+
+
+
+  ## Actionable Insights     
+  -  Consumers contributed to more than half of the Superstores revenue
+  -  The most preferred Shipping mode is the Standard Class
+  -  Most valuable product is the Office Supplies
+  -  Phones are the top selling product Subcategory
+  -  California has the highest number of sales
+  -  The Western Region emerged as the highest selling region
+
+  ## Recommendations          
+  -  Consumer and Corporate segment make up more than 70% of the Customer base segments
+  -  Fresh marketing and promotional campaigns to target specific regions with higher sales potential by introducing special promotions and discounts.     
+  -  Allocate resources to optimize top performing product categories and subcategories to maximize sales
+  -  For least selling products,consider to either drop them from the catalogue or change suppliers and bargain for cheaper price.
+  -  We can consider offering multiple shipping options to cater for different customer preferences.        
+    
+
+   
+    
+ 
+ 
 
 
 
