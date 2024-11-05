@@ -163,10 +163,36 @@ PY Accidents Count = CALCULATE(COUNT(Data[Accident_Index]), SAMEPERIODLASTYEAR('
 
 (c) Year on Year Growth of Accidents - YoY Accidents Measure
 
-YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
+YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]   
 
+## Key findings      
+-  Total Current(CY) Casualties-196k   
+-  Total Year Over Year(YOY) Accidents-144k    
+-  Current Year(CY)Fatal Casualties-2.9k     
+-  Current Year(CY)Serious Casualties-27k      
+-  Current Year(CY)Slight Casualties-165.8k
 
-        https://github.com/wolexyg/Power-BI/blob/6da8343bb8cf15be4d742c65f61f720570f21339/SuperStore%20Sales%20Dashboard.PNG
+  ## Casualties in the Urban/Rural Areas        
+  <img src="https://i.ibb.co/qJbtD4C/Casualties-By-Urban-Rural-Areas.jpg" alt="Casualties-By-Urban-Rural-Areas" border="0">       
+  This indicates that there are more casualties in the urban area than in the rural areas 
+  
+ ## Casualties By Vehicle           
+  <img src="https://i.ibb.co/mSQHyzM/Casualties-By-Vehicle-Type.jpg" alt="Casualties-By-Vehicle-Type" border="0">     
+  Car recorded the highest number of casualties with a total of 155804     
+
+## Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend       
+<img src="https://i.ibb.co/HYzdGjK/Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend.jpg" alt="Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend" border="0">             
+
+November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022.
+
+  
+  
+  
+  
+  
+ 
+
+  
 
 🚀 About Me
 5 years of Industry experience as a data analyst and 2 years as a Data Scientist using Machine Learning algorithms. I have consistently interfaced with SQL, PowerBI and Tableau. I have work experience and extensive knowledge in Python with libraries such as Sklearn, TensorFlow, Pandas, NumPy, Matplotlib, seaborn. Identifying business needs and developing valuable solutions to improve accuracy and process optimization.
