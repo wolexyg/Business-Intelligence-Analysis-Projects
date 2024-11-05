@@ -233,7 +233,7 @@ The objectives can be broken down into  the following detailed components;
 
  -  Which is the preferred ship mode?.
 
-    <img src="https://i.ibb.co/k1vyRR6/Sales-By-Ship-mode-Superstore.jpg" alt="Sales-By-Ship-mode-Superstore" border="0">    
+    <img src="https://i.ibb.co/k1vyRR6/Sales-By-Ship-mode-Superstore.jpg" alt="Sales-By-Ship-mode-Superstore" border="0">              
     Standard Class is the prefered ship mode.
 
 -  Which Segment recorded the highest sales?         
