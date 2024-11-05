@@ -180,7 +180,7 @@ YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
   <img src="https://i.ibb.co/mSQHyzM/Casualties-By-Vehicle-Type.jpg" alt="Casualties-By-Vehicle-Type" border="0">     
   Car recorded the highest number of casualties with a total of 155804     
 
-## Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend       
+## Current-Year-vs-Previous-Year-Casualties-Monthly-Trend       
 <img src="https://i.ibb.co/HYzdGjK/Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend.jpg" alt="Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend" border="0">             
 
 November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022.
