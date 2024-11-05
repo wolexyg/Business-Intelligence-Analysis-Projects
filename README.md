@@ -259,7 +259,21 @@ The objectives can be broken down into  the following detailed components;
   -  Fresh marketing and promotional campaigns to target specific regions with higher sales potential by introducing special promotions and discounts.     
   -  Allocate resources to optimize top performing product categories and subcategories to maximize sales
   -  For least selling products,consider to either drop them from the catalogue or change suppliers and bargain for cheaper price.
-  -  We can consider offering multiple shipping options to cater for different customer preferences.        
+  -  We can consider offering multiple shipping options to cater for different customer preferences.
+
+
+# Project 4-Sales Data Analysis      
+## Project Objective 
+The Objective of this Analysis is to gain valuable insight that will propel actionable insights and inform the company's strategic decisions. The impact of this analysis on the business and the final outcome.         
+
+<img src="https://i.ibb.co/rdf6LTz/Sales-Analysis-data.jpg" alt="Sales-Analysis-data" border="0">
+
+## Tools used         
+- Microsoft Excel(dataset)
+- Power Query(for Data Cleaning)      
+- Microsoft Power BI(Data Modelling,DAX Calculation and Dashbard Creation)
+  
+
     
 
    
