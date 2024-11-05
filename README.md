@@ -1,4 +1,4 @@
-PowerBI project
+![image](https://github.com/user-attachments/assets/79dd3bee-d240-4c02-a495-a5775b08dc94)PowerBI project
 
 **Project 1 Title-Sales Analysis Report**
 
@@ -197,9 +197,9 @@ The objectives can be broken down into  the following detailed components;
 -  Actionable Insights and Recommendation-End goal is to derive insights  and actionable information that can drive strategic decision-making, support the supermarket's goals for growth,efficiency and customer satisfaction.      
 
   ## Tools Used    
-  -  Microsoft Excel
+  -  Microsoft Excel(Dataset)
   -  Power Query(For Data Cleaning)
-  -  Microsoft PowerBI(Dashboard Creation)  
+  -  Microsoft PowerBI(Data Modelling,DAX Calculations,Dashboard Creation)  
 
  ## Dashboard Creation              
  <img src="https://i.ibb.co/s3SV3yH/Superstore-Sales-Dashboard4.jpg" alt="Superstore-Sales-Dashboard4" border="0">   
@@ -266,12 +266,101 @@ The objectives can be broken down into  the following detailed components;
 ## Project Objective 
 The Objective of this Analysis is to gain valuable insight that will propel actionable insights and inform the company's strategic decisions. The impact of this analysis on the business and the final outcome.         
 
-<img src="https://i.ibb.co/rdf6LTz/Sales-Analysis-data.jpg" alt="Sales-Analysis-data" border="0">
+<img src="https://i.ibb.co/rdf6LTz/Sales-Analysis-data.jpg" alt="Sales-Analysis-data" border="0">   
+
+The Project can be broken down based on the needs of the stakeholders into;  
+- Key Findings-Summary of the sales
+- Actionable Insights
+- Impact on Business      
+- Proposed Strategic Actions     
+- Recommendation        
+- Conclusion          
 
 ## Tools used         
 - Microsoft Excel(dataset)
 - Power Query(for Data Cleaning)      
 - Microsoft Power BI(Data Modelling,DAX Calculation and Dashbard Creation)
+
+## Key Findings
+-  The total sales across the years amount to 140.92 Million naira  from 2022 to 2024.
+-  Benin has emerged as the top performing region contributing to 42.03 Million
+   Naira to the total sales.     
+-  Additionally,Quarter 4 stands out as the highest selling quarter with 35.69 Million naira in sales across the years.
+-  Product E emerged as the best selling product across all regions with 28.4 million naira in sales.
+
+  ## Sales By Year    
+  <img src="https://i.ibb.co/2kLbfx4/Total-Sales-over-years.jpg" alt="Total-Sales-over-years" border="0">  
+  The above line chart shows the Sales by year indicating an overall upward sales trend from 2022 to 2024.    
+
+  ## Top Performing Region      
+  <img src="https://i.ibb.co/KqsKZ0Y/Sales-By-Region-Sales.jpg" alt="Sales-By-Region-Sales" border="0">       
+  The bar Chart highlights sales by region with Benin as the top performing region with a total sales of 42.03 Million naira.         
+
+  ## Quarterly Sales Performance   
+  <img src="https://i.ibb.co/Mkc6Xf9/Total-Sales-Over-Quarter.jpg" alt="Total-Sales-Over-Quarter" border="0">      
+
+  ## Top Product Performance     
+  <img src="https://i.ibb.co/cLRVbNs/Sales-By-Product.jpg" alt="Sales-By-Product" border="0">       
+  Product E is the highest selling product achieving a total sales of 28.4 Million Naira across all the regions. This indicates  a strong preference and Market demand for Product E in all the regions.  
+  
+ ## Daily Sales Performance     
+ <img src="https://i.ibb.co/wYWmg43/Total-Sales-By-Day.jpg" alt="Total-Sales-By-Day" border="0">   
+ This line chart shows that there are more sales on weekends than on weekdays.    
+
+ # Actionable Insights    
+ - From our analysis, it is evident that Benin is a critical market contributing nearly 30% to our total sales.
+ - Quarter 4 consistently emerges as the most lucrative period likely due to seasonal factors.
+ - Product E came top as the best selling product across all regions indicating a strong preference of this product above all the other product.
+ - Sales are significantly higher on Weekends compared to weekdays, suggesting that customers are likely to make more purchase during the weekend.
+
+## Impact on Business    
+-  Implementing these recommendations can significantly boost our overall sales and revenue.
+-  By establishing dominance in key regions like Benin, we cam position ourselves as a market leader
+-  Improved forecasting and resource allocation based on sales trend will also enhance our operational efficiency
+-  Success in Benin can be used as a model for expanding into similar markets, potentially uncovering new revenue streams.
+-  Enhanced marketing and targeted strategies can attract new customers and retain existing ones, leading to sustainable business growth.
+
+    
+
+## Proposed Strategic Actions    
+I propose two strategic actions;    
+-  Firstly, expand our presence in Benin by increasing our marketing budget and sales team.
+-  Secondly, enhance our Quarter 4 readiness by developing targeted promotions and ensuring adequate inventory levels.
+
+## Recommendations    
+-  Based on this analysis, I will recommend focusing on Benin by enhancing our marketing and sales efforts.
+-  Additionally, we can also optimize our Quarter 4 strategies by strengthening our campaigns and managing inventory efficiently to maximize sales during the peak period. We can also investigate the strategies and market conditions that have led to the increase  of sales in Benin and Quarter 4.,then apply these insights to other regions and quarters to elevate the overall sales performance.
+-  Given the strong performance of Product E across all regions, allocate more marketing resources to promote Product E.
+-  Optimizing Weekend Strategies: We can implement special promotions, discounts or events on weekends to capitalize on higher foot traffic and sales. This can further boost weekend sales across all products lines.
+
+
+## Conclusion    
+In conclusion, by leveraging these insights and implementing the recommended strategies, the business can enhance its market position, drive revenue growth, and improve operational efficiency, leading to a better overall business outcomes.
+
+  
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+  
+  
+   
+
+
+
   
 
     
