@@ -112,32 +112,32 @@ and personalized analysis.
     
     4.The profit margin in the Export channel is higher
 
-**Project 2 Title-Accident on Road Analysis**
-    
+**Project 2 Title-Accident on Road Analysis**   
+ ## Project Overview        
 The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help 
 improve road safety. First step is to Import the data into Power BI and clean it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
-<img src="https://i.ibb.co/JB87dM8/Road-Accident-Analysis.jpg" alt="Road-Accident-Analysis" border="0">
+<img src="https://i.ibb.co/JB87dM8/Road-Accident-Analysis.jpg" alt="Road-Accident-Analysis" border="0">  
 
+## Higlights of the Analysis      
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
 
-Primary KPI - Total Casualties and Total Accident values for Current Year(CY) and YoY growth
+- Primary KPI - Total Casualties and Total Accident values for Current Year(CY) and YoY growth
 
-Primary KPI's — Total Casualties by Accident Severity for Current Year and YoY growth
+- Primary KPI's — Total Casualties by Accident Severity for Current Year and YoY growth
 
-Secondary KPI's - Total Casualties with respect to vehicle type for Current Year
+- Secondary KPI's - Total Casualties with respect to vehicle type for Current Year
 
-Monthly trend showing comparison of casualties for Current Year and Previous Year (PY)
+- Monthly trend showing comparison of casualties for Current Year and Previous Year (PY)
 
-Casualties by Road Type for Current year
+- Casualties by Road Type for Current year
 
-Current Year Casualties by Area/ Location & by Day/ Night
+- Current Year Casualties by Area/ Location & by Day/ Night
 
-Total Casualties and Total Accidents by Location
+- Total Casualties and Total Accidents by Location    
 
+## ata Analysis Expressions (DAX) Formulas Used in Measures     
 
-Data Analysis Expressions (DAX) Formulas Used in Measures
-
-Total Casualties For Current Year and Year on Year Growth
+1.Total Casualties For Current Year and Year on Year Growth
 
 (a) Current Year To Date Casualties -- CY Casualties Measure
 
@@ -183,7 +183,22 @@ YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
 ## Current-Year-vs-Previous-Year-Casualties-Monthly-Trend       
 <img src="https://i.ibb.co/HYzdGjK/Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend.jpg" alt="Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend" border="0">             
 
-November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022.
+November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022.   
+
+# Project 3-SuperStore Sales Analysis  
+## Project Objectives    
+To contribute to the success of the business by Utilizing data analysis techniques,specifically focusing on time series analysis
+to provide valuable insights and accurate sales forecasting.        
+The objectives can be broken down into  the following detailed components;    
+-  Dashboard Creation-Identify KPIs ,design an intuitive and visually appealing dashboard,add interactive  visualizations and filtering
+  capabilities to allow users  to explore  the data at various levels of granualarity
+-  Data Analysis-Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualizations and charts
+-  Sales Forecasting-Leverage historic data  and apply time series analysis to generate sales forecast for the next 15 days
+-  Actionable Insights and Recommendation-End goal is to derive insights  and actionable information that can drive strategic decision-making, support the supermarket's goals for growth,efficiency and customer satisfaction.
+
+
+
+
 
   
   
