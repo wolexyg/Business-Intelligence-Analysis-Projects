@@ -251,9 +251,10 @@ The objectives can be broken down into  the following detailed components;
    <img src="https://i.ibb.co/XDBrDr3/Sales-By-Sub-Category-Superstores.jpg" alt="Sales-By-Sub-Category-Superstores" border="0">        
     Phones are the top selling Subcategory
 
- -  Which is the preferred ship mode?.
+ -  Which is the preferred ship mode?.                  
 
-    <img src="https://i.ibb.co/k1vyRR6/Sales-By-Ship-mode-Superstore.jpg" alt="Sales-By-Ship-mode-Superstore" border="0">              
+    <img src="https://i.ibb.co/k1vyRR6/Sales-By-Ship-mode-Superstore.jpg" alt="Sales-By-Ship-mode-Superstore" border="0">      
+    
     Standard Class is the prefered ship mode.
 
 -  Which Segment recorded the highest sales?         
