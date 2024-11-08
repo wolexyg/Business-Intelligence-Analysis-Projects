@@ -242,15 +242,13 @@ The objectives can be broken down into  the following detailed components;
  -  Which Category has the highest number of sales?       
    <img src="https://i.ibb.co/BBNGtY9/Sales-By-Category-Superstore.jpg" alt="Sales-By-Category-Superstore" border="0">
 
-   Office Supplies has the highest number sales.
+   Office Supplies has the highest number sales.           
 
-   
- -  Which is the top selling product Category and Subcategory?.
-   <img src="https://i.ibb.co/BBNGtY9/Sales-By-Category-Superstore.jpg" alt="Sales-By-Category-Superstore" border="0">
+ -  Which is the top selling product Category and Subcategory?.               
+   <img src="https://i.ibb.co/BBNGtY9/Sales-By-Category-Superstore.jpg" alt="Sales-By-Category-Superstore" border="0">         
+    Office Supplies are the top selling Product Category                                         
 
-    Office Supplies are the top selling Product Category                    
-
-     <img src="https://i.ibb.co/XDBrDr3/Sales-By-Sub-Category-Superstores.jpg" alt="Sales-By-Sub-Category-Superstores" border="0">        
+   <img src="https://i.ibb.co/XDBrDr3/Sales-By-Sub-Category-Superstores.jpg" alt="Sales-By-Sub-Category-Superstores" border="0">        
     Phones are the top selling Subcategory
 
  -  Which is the preferred ship mode?.
