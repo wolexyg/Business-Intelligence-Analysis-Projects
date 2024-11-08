@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/79dd3bee-d240-4c02-a495-a5775b08dc94)PowerBI project
+# Power BI/Tableau Projects
 
-**Project 1 Title-Sales Analysis Report**
+# Project 1- Title-Sales Analysis Report        
 
 The Objective of the Sales Dashboard / Business Problem
 
