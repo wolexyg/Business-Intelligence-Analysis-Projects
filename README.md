@@ -392,7 +392,58 @@ The dashboard should provide real-time insights into key performance indicators 
 - 	YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a Doughnut chart.           
 -  YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.            
 -  Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.           
--  Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc   
+-  Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
+
+  ## Insights    
+  ## YTD Sales Weekly Trend   
+  <img src="https://i.ibb.co/7WFQgT3/YTD-Sales-Weekly-trend.jpg" alt="YTD-Sales-Weekly-trend" border="0">      
+
+
+  ## YTD Total Sales By Body Style     
+  <img src="https://i.ibb.co/YP20tyn/YTD-Total-Sales-By-Body-Style.jpg" alt="YTD-Total-Sales-By-Body-Style" border="0">        
+
+  ## YTD Total Sales By Color     
+  <img src="https://i.ibb.co/YZhkTv4/YTD-Total-Sales-By-Color.jpg" alt="YTD-Total-Sales-By-Color" border="0">         
+
+  ## YTD Cars Sold By Dealer Region          
+  <img src="https://i.ibb.co/p0pbWPd/YTD-Total-Sales-By-Dealer-Region.jpg" alt="YTD-Total-Sales-By-Dealer-Region" border="0">     
+
+  ## Company-Wise Sales Trend     
+  <img src="https://i.ibb.co/ssXrrp2/Company-wise-Sales-Trend.jpg" alt="Company-wise-Sales-Trend" border="0">       
+
+  ## Details Grid Showing All Car Sales Information      
+  <img src="https://i.ibb.co/QYBhCQv/Car-Sales-Details.jpg" alt="Car-Sales-Details" border="0">      
+
+  ## Key Findings               
+  -  Strong YOY Sales Growth: The company achieved a 23.59% increase in year-over-year (YOY) sales, with YTD total sales reaching $371.2 million, a difference of $70.8 million from the previous year.
+  -  High MTD Sales Performance: Monthly-to-date (MTD) total sales are $54.2 million, indicating strong sales momentum for the current month.     
+  -  Slight Decrease in Average Price: The YTD average price per car is $28,000, showing a minor decline from the prior year’s average of 0.22 thousand, a YOY drop of 0.79%.
+  -  Notable Increase in Cars Sold: The number of cars sold YTD is 13.3 thousand, an increase of 2.6 thousand compared to last year, reflecting a 19.73% YOY increase.
+  -  Stable MTD Average Price: The MTD average price is $28.26 thousand, showing relatively steady pricing.
+
+## Actionable Insights  
+-  Sales Expansion: With sales growth above 20% YOY, further investment in high-performing sales regions or digital channels can capitalize on the current momentum.       
+-  Pricing Adjustments: Despite the high sales volume, the slight drop in average price suggests potential room for improved pricing strategies or premium offerings, especially since demand appears strong.               
+- Inventory Management: With the 19.73% growth in cars sold, reviewing inventory and supply chain strategies may ensure the company can sustain this demand without shortages or delays.
+
+  ## Impact on Business
+  -  Revenue Growth: The significant YOY sales growth positively impacts overall revenue and could strengthen the company’s market share in the industry.     
+  -  Market Position: The increase in units sold implies the brand is resonating well with consumers, which could enhance customer loyalty and brand reputation.    
+  -  Profit Margins: Slightly lower average prices may slightly impact margins, depending on cost structure, but higher sales volumes could offset this.        
+
+   ## Recommendations    
+  -  Enhance Sales Channels: Invest in expanding high-performing sales channels or exploring new marketing initiatives to sustain the YOY growth trend.    
+  -  Optimize Pricing: Consider targeted price increases in areas or segments where demand is strongest or where customers are less price-sensitive.      
+  -  Focus on Premium Offerings: Explore adding premium car models or feature-rich versions to elevate the average price and capture more value per sale.     
+  -  Strengthen Inventory Planning: Monitor inventory closely to ensure the supply meets rising demand without risk of overstock or shortages.      
+
+
+  
+
+  
+
+  
+  
 
 
 
