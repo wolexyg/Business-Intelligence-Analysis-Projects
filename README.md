@@ -176,18 +176,37 @@ YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
 -  Current Year(CY)Serious Casualties-27k      
 -  Current Year(CY)Slight Casualties-165.8k
 
-  ## Casualties in the Urban/Rural Areas        
+# Insights           
+## Accident Severity by Casualties Analysis        
+<img src="https://i.ibb.co/nkPnMJq/Road-Accident-KPI-Banner.jpg" alt="Road-Accident-KPI-Banner" border="0">          
+Accident Severity by Casualties Analysis entails a comprehensive evaluation of all factors contributing to the severity of accidents, particularly focusing on the number and extent of casualties involved. This analysis encompasses direct elements such as the nature of the accident and injuries sustained, as well as indirect factors like road conditions and environmental influences.          
+
+## Casualties in the Urban/Rural Areas            
   <img src="https://i.ibb.co/qJbtD4C/Casualties-By-Urban-Rural-Areas.jpg" alt="Casualties-By-Urban-Rural-Areas" border="0">       
-  This indicates that there are more casualties in the urban area than in the rural areas 
+There is a higher risk of casualties in urban areas compared to rural areas. This is likely due to a combination of factors, including population density, traffic volume, and speed.    
   
  ## Casualties By Vehicle           
-  <img src="https://i.ibb.co/mSQHyzM/Casualties-By-Vehicle-Type.jpg" alt="Casualties-By-Vehicle-Type" border="0">     
-  Car recorded the highest number of casualties with a total of 155804     
+  <img src="https://i.ibb.co/mSQHyzM/Casualties-By-Vehicle-Type.jpg" alt="Casualties-By-Vehicle-Type" border="0">          
+  Car recorded the highest number of casualties with a total of 155804.Insights on road fatalities by vehicle type reveal cars as the most lethal, likely due to their size, speed, and limited protection for cyclists. Bikes follow closely behind in fatalities. Trucks, driven by experienced professionals, are least involved in fatal crashes. Casualties vary based on factors like speed limits, road type, and safety features, such as airbags and seatbelts.                   
 
 ## Current-Year-vs-Previous-Year-Casualties-Monthly-Trend       
-<img src="https://i.ibb.co/HYzdGjK/Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend.jpg" alt="Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend" border="0">             
+<img src="https://i.ibb.co/HYzdGjK/Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend.jpg" alt="Current-Year-vs-Previous-Year-Casulaties-Monthly-Trend" border="0">               
 
-November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022.   
+November recorded the highest number of casualties with a record of 20975 in 2021 as compared with 18489 in 2022. The largest discrepancy between CY and PY casualties occurs in April and May, possibly attributed to seasonal factors like increased summer road traffic. However, due to the limited two-year dataset and significant month-to-month variation, drawing conclusive trends about overall casualty trends proves challenging.            
+## Casualties By Light Conditions    
+<img src="https://i.ibb.co/1f2gMJG/Casulaties-By-Light-Conditions.jpg" alt="Casulaties-By-Light-Conditions" border="0">         
+People are more likely to be injured or killed in accidents that occur during daylight hours. This is likely due to a combination of factors, such as increased traffic volume, risky behaviors, and poorer visibility at night.        
+
+## Casualties By Road Type    
+<img src="https://i.ibb.co/1qJXg6g/Casualties-By-Road-Type.jpg" alt="Casualties-By-Road-Type" border="0">     
+This findings underscore the importance of targeted interventions and resource allocation to enhance safety measures, reduce casualties, and improve overall road safety     
+
+## Casualties By Location    
+<img src="https://i.ibb.co/mTZkp0s/Casualties-By-Location.jpg" alt="Casualties-By-Location" border="0">     
+The yellow dots represent the locations of accidents.           
+
+## Recommendations   
+-  By conducting a thorough assessment, stakeholders can better understand the dynamics of accidents, identify areas for improvement in safety measures, and implement targeted interventions to mitigate severity and enhance overall safety outcomes.   
 
 # Project 3-SuperStore Sales Analysis  
 ## Project Objectives    
