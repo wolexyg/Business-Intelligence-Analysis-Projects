@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/649cffc8-f3c6-4c58-9296-3c61fd2cc3d4)# Power BI/Tableau Projects
+## Power BI/Tableau Projects     
 
 # Project 1- Title-Sales Analysis Report        
 
