@@ -477,15 +477,15 @@ The dashboard should provide real-time insights into key performance indicators 
 - Trend Analysis: An  Area chart showing monthly sales, highlighting July and August peaks.
 
   ## Top Performing Retailer
-  <img src="https://i.ibb.co/7N0yF0X/Total-SALES-By-Retailer.jpg" alt="Total-SALES-By-Retailer" border="0">    
+  <img src="https://i.ibb.co/7N0yF0X/Total-SALES-By-Retailer.jpg" alt="Total-SALES-By-Retailer" border="0">              
   West Gear leads as the top retailer, generating $242,964,333 in total sales.        
 
   ## Highest Grossing product
-  <img src="https://i.ibb.co/8PddbfS/Total-sales-By-Product.jpg" alt="Total-sales-By-Product" border="0">       
+  <img src="https://i.ibb.co/8PddbfS/Total-sales-By-Product.jpg" alt="Total-sales-By-Product" border="0">                      
   Men’s Street Footwear takes the spotlight as the highest-grossing product, contributing $208,626,244 to total sales.      
 
   ## Total Sales By Month
-  <img src="https://i.ibb.co/s15hMhs/Total-Sales-By-Month-Adidas2.jpg" alt="Total-Sales-By-Month-Adidas2" border="0">      
+  <img src="https://i.ibb.co/s15hMhs/Total-Sales-By-Month-Adidas2.jpg" alt="Total-Sales-By-Month-Adidas2" border="0">               
   The highest sales by Month are July nad August indicating  peak periods for July and Augiust          
 
 # Data Storytelling: Business Insights Overview   
