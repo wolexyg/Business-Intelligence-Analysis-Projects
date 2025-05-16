@@ -5,7 +5,7 @@
 ## The Objective of the Sales Dashboard / Business Problem
 
 The objective of the report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons. It aims to provide a clear understanding of key performance indicators and trends using Power BI.           
-https://ibb.co/8DSk16D9
+
 
 
 The report objectives can be summarized as follows:
@@ -533,7 +533,7 @@ This financial health provides opportunities for reinvestment in growth areas.
 # Project 7-Financial Loan Analysis
 ## Objectives:   
 The main objective of this project is to analyse various KPIs metrics that can be used to access loan applications.    
-<img src="https://i.imgur.com/Bank loan report.jpg" width="300">
+https://ibb.co/8DSk16D9
 ## Problem Statement                  
 ## Key Performance Indicators (KPIs) Requirements:        
 -- 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period.         Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).      
