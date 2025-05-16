@@ -574,7 +574,39 @@ Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applicatio
 -- 5. Debt-to-Income (DTI) Ratio        
 •	Avg DTI: 13.33%       
 •	MTD: 13.7%      
-•	MoM Increase: +2.7%    
+•	MoM Increase: +2.7%     
+
+## Good Loan Issued    
+<img src="https://i.ibb.co/XZHZ5VDS/Good-loan-issued.jpg" alt="Good-loan-issued" border="0">       
+
+
+
+## Bad Loan Issued   
+<img src="https://i.ibb.co/fYvCny24/Bad-Loan-Issued.jpg" alt="Bad-Loan-Issued" border="0">    
+
+## Insights       
+-- Loan applications continue to grow steadily MoM, indicating sustained borrower demand.   
+-- Funded amounts are rising at a faster pace than applications — potential increase in approval rates or loan sizes.     
+-- Repayment trends are healthy with a notable 15.8% growth — outpacing disbursal increases.    
+-- Rising interest rates may increase revenue per loan but could deter sensitive borrowers.     
+-- Slight uptick in DTI suggests growing borrower obligations. Risk of default may increase if trend continues.    
+
+ ## Recommendation   
+ -- Enhance marketing outreach to further capitalize on increasing demand trends.   
+ -- Review underwriting practices to ensure sustained credit quality amidst higher funding rates.    
+ -- Consider rewarding early or regular payers with interest discounts or loyalty programs to retain good borrowers.    
+ -- Monitor competitive rates and test rate elasticity in key borrower segments.     
+ -- •	Tighten approval criteria for borrowers with DTI > 15%.    
+ -- •	Offer financial planning resources to educate borrowers on responsible borrowing.  
+
+ ## Conclusion         
+ -- Demand and repayment trends are strong.    
+--  Credit risk is rising modestly (via DTI), requiring proactive risk management.    
+--  Interest rates should be managed carefully to maintain borrower affordability.
+
+
+
+ 
 
 
 
