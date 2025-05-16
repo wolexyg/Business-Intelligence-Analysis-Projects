@@ -533,8 +533,11 @@ This financial health provides opportunities for reinvestment in growth areas.
 # Project 7-Financial Loan Analysis
 ## Objectives:   
 The main objective of this project is to analyse various KPIs metrics that can be used to access loan applications.    
- <img src="https://i.ibb.co/jv1tngvD/Bank-loan-report.jpg" alt="Bank-loan-report" border="0">                   
-<img src="https://i.ibb.co/1YvXwKT5/Bank-loan-Overview.jpg" alt="Bank-loan-Overview" border="0">
+ <img src="https://i.ibb.co/jv1tngvD/Bank-loan-report.jpg" alt="Bank-loan-report" border="0"> 
+ 
+ <img src="https://i.ibb.co/1YvXwKT5/Bank-loan-Overview.jpg" alt="Bank-loan-Overview" border="0">       
+
+ <img src="https://i.ibb.co/prWNpszb/BANK-LOAN-REPORT-DETAILS.jpg" alt="BANK-LOAN-REPORT-DETAILS" border="0">
 ## Problem Statement                  
 ## Key Performance Indicators (KPIs) Requirements:        
 -- 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period.         Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).      
