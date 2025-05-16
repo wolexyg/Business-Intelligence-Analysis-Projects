@@ -531,7 +531,9 @@ This financial health provides opportunities for reinvestment in growth areas.
 - Assess the feasibility of premium pricing for high-demand categories like Men’s Street Footwear.      
   
 # Project 7-Financial Loan Analysis
-Objectives:The main objective of this project is to analyse various KPIs metrics that can be used to access loan applications.
+## Objectives:   
+The main objective of this project is to analyse various KPIs metrics that can be used to access loan applications.    
+<img src="https://i.imgur.com/Bank loan report.jpg" width="300">
 ## Problem Statement                  
 ## Key Performance Indicators (KPIs) Requirements:        
 -- 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period.         Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).      
