@@ -616,7 +616,95 @@ A US Based e-commerce Sales company wants to create a Sales Dashboard showing in
 -- YTD Sales By region to know the best and worst performing region all over the country.                
 -- YTD Sales By shipping type to get the best shipping type by percentage.        
 
-<img src="https://i.ibb.co/twtjs4gS/Ecommerce1.jpg" alt="Ecommerce1" border="0">          
+<img src="https://i.ibb.co/twtjs4gS/Ecommerce1.jpg" alt="Ecommerce1" border="0">    
+
+
+## Key Findings    
+## KPIs       
+-- YTD Sales is $11.53 Million   
+-- YTD Profit is $1.34 Million   
+-- YTD Quantity is 107.2k    
+-- YTD Profit Margin is 11.58%     
+
+## Top 5 Products       
+
+<img src="https://i.ibb.co/DHJvLC1r/Top-5-Products-By-YTD-Sales.jpg" alt="Top-5-Products-By-YTD-Sales" border="0">        
+
+-- Staple Envelope came top as the 5 best selling Products with a YTD Sales of $57k    
+
+## Bottom 5 Products     
+
+<img src="https://i.ibb.co/N6RGZpdk/Bottom-5-Products-By-YTD-Sales.jpg" alt="Bottom-5-Products-By-YTD-Sales" border="0">    
+
+-- Rediform S.O.S came out as the worst selling Product.       
+
+## YTD Sales By Shipping Type   
+
+<img src="https://i.ibb.co/Mkdp5FLw/YTD-Sales-By-Shipping-Type.jpg" alt="YTD-Sales-By-Shipping-Type" border="0">    
+
+-- Standard Class came top as the highest YTD Sales with  (60.51%)    
+
+## YTD Sales By Region      
+
+<img src="https://i.ibb.co/jkB8QC34/YTD-Sales-By-Region.jpg" alt="YTD-Sales-By-Region" border="0">       
+
+-- Western Region is the highest selling region with a YTD Sales of    (32.22%)    
+
+## Sales By State    
+
+<img src="https://i.ibb.co/tP21YZN1/Sales-By-State.jpg" alt="Sales-By-State" border="0">      
+
+-- California is the highest selling State with a YTD Sales of $2.3 Million        
+
+# Insights        
+
+📊 Business Performance Insights (YTD)
+✅ Positive Trends
+Profit Growth Despite Sales Dip:           
+Profit grew by 4.5% YoY, reaching $1.34M, even though sales slightly declined (-0.83% YoY).     
+➤ Indicates improved cost efficiency, pricing strategy, or shift toward high-margin products.          
+
+Strong Profit Margin Performance:    
+YTD profit margin is 11.58%, with a 5.37% YoY increase, showcasing operational improvements and better profitability management.   
+
+⚠️ Areas of Concern        
+Decline in Sales Volume:             
+YTD quantity sold dropped by 7.29% YoY to 107.2k units.              
+➤ This volume decline is disproportionately larger than the sales drop, implying possible price increases, product mix changes, or market share loss.          
+
+Flat Revenue Growth:             
+YTD sales at $11.53M, with a marginal YoY decline of 0.83%, suggests stagnant demand or competitive pressures.      
+
+## Recommendation     
+🎯 Strategic Recommendations          
+## 1. Investigate Volume Decline            
+Deep dive into the 7.29% drop in quantity: identify if specific regions, product categories, or customer segments are underperforming.   
+
+Consider promotions, product bundling, or channel optimization to drive volume recovery.        
+
+## 2. Leverage High-Margin Segments         
+Double down on products or services contributing to the rising profit margin.        
+
+Analyze the drivers of margin growth (e.g., cost control, product mix) and scale best practices across the business.        
+
+## 3. Enhance Demand Generation         
+With flat sales and dropping volume, invest in targeted marketing campaigns, cross-sell/upsell strategies, and customer retention initiatives.        
+
+Reevaluate pricing strategies to ensure competitiveness without eroding margins.       
+
+## 4. Monitor Competitive Dynamics        
+Explore whether sales volume decline is due to competitive encroachment or market shifts.        
+
+Benchmark against peers to understand performance gaps and adjust positioning accordingly.        
+
+## 5. Forecast Risks and Sustainability            
+Determine if profit improvements are structural (sustainable) or one-off.          
+
+Plan ahead to maintain margins in the face of potential input cost increases or volume pressures.
+
+
+
+
 
 
 
