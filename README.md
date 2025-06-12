@@ -614,7 +614,12 @@ A US Based e-commerce Sales company wants to create a Sales Dashboard showing in
 -- Find the YTD Sales performance for each state           
 -- Top 5 and bottom 5 Products By  Sales        
 -- YTD Sales By region to know the best and worst performing region all over the country.                
--- YTD Sales By shipping type to get the best shipping type by percentage.          
+-- YTD Sales By shipping type to get the best shipping type by percentage.        
+
+<img src="https://i.ibb.co/twtjs4gS/Ecommerce1.jpg" alt="Ecommerce1" border="0">          
+
+
+
 
 
 
