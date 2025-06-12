@@ -6,12 +6,13 @@ An Ecommerce company based in the US with btranches in Brazil,Canada and Mexico 
 insights for the following;     
 
 -- 1.Create a KPI showing the Total Sales,Total Profit, Profit Margin and Total Orders        
--- 2.For the Visuals,create the following      
-Top 5 Best Selling Products        
-Top 5 Worst Selling Products        
-Total Sales By Region       
-Total Sales By Month         
-Total Sales and Profit By Month           
+-- 2.For the Visuals,create the following;     
+
+  Top 5 Best Selling Products          
+  Top 5 Worst Selling Products        
+  Total Sales By Region       
+  Total Sales By Month         
+  Total Sales and Profit By Month           
 
 <img src="https://i.ibb.co/PGT1fNFH/Ecommerce2.jpg" alt="Ecommerce2" border="0">      
 
@@ -19,7 +20,7 @@ Total Sales and Profit By Month
 -- Total Sales is $313k     
 -- Total Profit is $29k     
 -- Profit Margin 9.27%    
--- Total Orders is 1330 
+-- Total Orders is 1330       
 -- Average Order Value (AOV): ~$235     
 -- Average Profit per Order: ~$21.80      
 
