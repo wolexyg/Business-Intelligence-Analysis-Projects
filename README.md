@@ -642,13 +642,13 @@ A US Based e-commerce Sales company wants to create a Sales Dashboard showing in
 
 <img src="https://i.ibb.co/Mkdp5FLw/YTD-Sales-By-Shipping-Type.jpg" alt="YTD-Sales-By-Shipping-Type" border="0">    
 
--- Standard Class came top as the highest YTD Sales with  (60.51%)    
+-- Standard Class came top as the highest YTD Sales of $7M (60.51%)    
 
 ## YTD Sales By Region      
 
 <img src="https://i.ibb.co/jkB8QC34/YTD-Sales-By-Region.jpg" alt="YTD-Sales-By-Region" border="0">       
 
--- Western Region is the highest selling region with a YTD Sales of    (32.22%)    
+-- Western Region is the highest selling region with a YTD Sales of $3.72M (32.22%)    
 
 ## Sales By State    
 
@@ -658,9 +658,9 @@ A US Based e-commerce Sales company wants to create a Sales Dashboard showing in
 
 # Insights        
 
-📊 Business Performance Insights (YTD)
-✅ Positive Trends
-Profit Growth Despite Sales Dip:           
+📊 Business Performance Insights (YTD)           
+✅ Positive Trends                
+Profit Growth Despite Sales Dip:                          
 Profit grew by 4.5% YoY, reaching $1.34M, even though sales slightly declined (-0.83% YoY).     
 ➤ Indicates improved cost efficiency, pricing strategy, or shift toward high-margin products.          
 
