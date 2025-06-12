@@ -602,7 +602,22 @@ Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applicatio
  ## Conclusion         
  -- Demand and repayment trends are strong.    
 --  Credit risk is rising modestly (via DTI), requiring proactive risk management.    
---  Interest rates should be managed carefully to maintain borrower affordability.
+--  Interest rates should be managed carefully to maintain borrower affordability.      
+
+# Project 8-Ecommerce Sales Analysis       
+
+## Problem Statement                   
+A US Based e-commerce Sales company wants to create a Sales Dashboard showing information of YTD Sales and generate insights for the following scenarios:         
+-- Create a KPI Banner showing YTD sales, YTD Profit, YTD Quantity Sold and YTD Profit Margin      
+-- Find Year on Year Growth for each KPI and show a YTD Sparkline for each measure in the KPI to understand the monthly trend for each fact.           
+-- Find the YTD Sales, PYTD Sales, YoY Sales Growth for different customer category. Add a trend icon for each category.           
+-- Find the YTD Sales performance for each state           
+-- Top 5 and bottom 5 Products By  Sales        
+-- YTD Sales By region to know the best and worst performing region all over the country.                
+-- YTD Sales By shipping type to get the best shipping type by percentage.          
+
+
+
 
 
 Installation
